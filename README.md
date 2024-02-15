@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @duanraaka
+- 👀 I’m interested in data science, data analysis, and business analytics. I'm passionate about exploring how data can be leveraged to make better business decisions and improve processes.
+- 🌱 I’m currently deepening my knowledge in machine learning and artificial intelligence, focusing particularly on their practical applications in marketing and finance.
+- 💞️ I’m looking to collaborate on data science projects that aim to solve real-world problems, especially those that involve big data analysis and the development of predictive models. I'm also interested in contributing to open-source projects that benefit the data science community.
+- 📫 To reach me, feel free to send a message through GitHub or connect with me on LinkedIn (https://www.linkedin.com/in/arnaud-akaffou-130907207/).
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I have a keen interest in sports data analysis, trying to predict team and player performances using statistical models.
